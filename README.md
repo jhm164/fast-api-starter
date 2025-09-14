@@ -18,3 +18,9 @@ $env:Path += ";C:\Users\saura\AppData\Roaming\Python\Scripts"
 ```bash
 poetry add fastapi uvicorn[standard]
 ```
+
+## 4. Run the Application
+
+```bash
+poetry run uvicorn main:app --reload
+```

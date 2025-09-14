@@ -1,0 +1,22 @@
+[{
+  "id": 1,
+  "name": "Sourabh Solkar",
+  "email": "sourabh@example.com",
+  "age": 28,
+  "is_active": true
+},
+{
+    "id": 2,
+    "name": "Jane Doe",
+    "email": "jane.doe@example.com",
+    "age": 32,
+    "is_active": false
+},
+{
+    "id": 3,
+    "name": "John Smith",
+    "email": "john.smith@example.com",
+    "age": 25,
+    "is_active": true
+}
+]

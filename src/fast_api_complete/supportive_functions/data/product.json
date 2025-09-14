@@ -1,0 +1,38 @@
+[
+    {
+        "id": 101,
+        "name": "Wireless Mouse",
+        "price": 799.99,
+        "currency": "INR",
+        "in_stock": true,
+        "tags": [
+            "electronics",
+            "accessories",
+            "wireless"
+        ]
+    },
+    {
+        "id": 102,
+        "name": "Mechanical Keyboard",
+        "price": 2499.50,
+        "currency": "INR",
+        "in_stock": false,
+        "tags": [
+            "electronics",
+            "accessories",
+            "keyboard"
+        ]
+    },
+    {
+        "id": 103,
+        "name": "USB-C Charger",
+        "price": 499.00,
+        "currency": "INR",
+        "in_stock": true,
+        "tags": [
+            "electronics",
+            "charger",
+            "usb-c"
+        ]
+    }
+]
